@@ -11,6 +11,7 @@ image_url (string)
       t.float :price
       t.string :size
       t.string :image_url
+      t.timestamps
     end
   end
 end
